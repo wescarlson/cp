@@ -7,6 +7,7 @@
 
     <!--Browser Tab Icon  (Favicon)-->
     <link rel="shortcut icon" href="assets/img/china-institute-of-orientalism-logo-version4.png" >
+    <!-- comment -->
 
      <video  autoplay="autoplay" loop poster="/assets/Video/index.files/html5video/pitted_buddhaBEST.jpg" id="bgvid">
         <source src="assets/Video/index.files/html5video/pitted_buddhaBEST.webm" type="video/webm" />
