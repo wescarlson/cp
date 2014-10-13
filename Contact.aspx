@@ -70,6 +70,7 @@
                     <h1>CONTACT</h1>
                     <h4>
                         <strong>
+                        <h1>Under Construction</h1>
                         </strong>
                     </h4>
                 </div>
@@ -78,9 +79,10 @@
 
             
         </div>
-         <div>
-            <img src="assets/img/china-institute-of-orientalism-logo-version4.png" style="margin-left:44%; max-height:200px; padding-top:20px; width:auto;" />
-        </div>
+                <div class="row text-center">
+                    <img src="assets/img/china-institute-of-orientalism-logo-version4.png"  style ="max-height:200px; width:auto;"  />
+                </div>
+
 
 
     </section>
@@ -114,76 +116,7 @@
 
 
 
-    <!-- Pricing Section -->
-
-    <section class="for-full-back color-white " id="price-sec">
-        <div class="container">
-            <div class="row text-center">
-                <div class="col-md-8 col-md-offset-2">
-                    <h1>LITTLE PRICING SCHEDULE</h1>
-                    <h4>
-                        <strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                         Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
-                        </strong>
-                    </h4>
-                </div>
-
-            </div>
-            <div class="row text-center">
-
-                <div class="col-md-12 ">
-
-
-
-                    <div class="col-md-3">
-                        <ul class="plan">
-                            <li class="plan-head">BASIC RATE</li>
-                            <li class="main-price">$99 only</li>
-                            <li><strong>per </strong>hour</li>
-                            <li class="bottom">
-                                <a href="#contact-sec" class="btn btn-default">BOOK</a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <div class="col-md-3">
-                        <ul class="plan">
-                            <li class="plan-head">SIMPLE RATE</li>
-                            <li class="main-price">$199 only</li>
-                            <li><strong>per </strong>hour</li>
-                            <li class="bottom">
-                                <a href="#contact-sec" class="btn btn-default">BOOK</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-md-3">
-                        <ul class="plan">
-                            <li class="plan-head">VALUE RATE</li>
-                            <li class="main-price">$299 only</li>
-                            <li><strong>per </strong>hour</li>
-                            <li class="bottom">
-                                <a href="#contact-sec" class="btn btn-default">BOOK</a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <div class="col-md-3">
-                        <ul class="plan">
-                            <li class="plan-head">ADVANCE RATE</li>
-                            <li class="main-price">$399 only</li>
-                            <li><strong>per </strong>hour</li>
-                            <li class="bottom">
-                                <a href="#contact-sec" class="btn btn-default">BOOK</a>
-                            </li>
-                        </ul>
-                    </div>
-
-                </div>
-            </div>
-
-
-        </div>
-    </section>
+  
 
     <section class="for-full-back for-parallax-two" id="Parallax-two">
         <div class="container">
@@ -203,77 +136,7 @@
 
         </div>
     </section>
-    <!--./parallax twokljdglkjhdglkh-->
-    <!--End Pricing Section -->
 
-    <!-- Contact Section -->
-    <section class="for-full-back color-white " id="contact-sec">
-        <div class="container">
-
-
-            <div class="row">
-                <div class="col-md-5 contact-cls">
-                    <h3>CONTACT ME </h3>
-                    <div>
-                        <span><i class="fa fa-home"></i>&nbsp; Address: New Your City</span>
-                        <br />
-                        <span><i class="fa fa-phone"></i>&nbsp;Phone: 82-230-567-899</span>
-                        <br />
-                        <span><i class="fa fa-envelope-o"></i>&nbsp;E-Mail: indo@yourdomain.com</span>
-                        <br />
-                        <span><i class="fa fa-phone"></i>&nbsp;Call: +50-987-009-0</span>
-                        <br />
-                        <span><i class="fa fa-globe"></i>&nbsp;Web: www.yourdomain.com</span>
-                        <br />
-                    </div>
-                    <br />
-                    <div id="social-icon">
-                        <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
-                        <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
-                        <a href="#"><i class="fa fa-linkedin fa-2x"></i></a>
-                        <a href="#"><i class="fa fa-google-plus fa-2x"></i></a>
-                        <a href="#"><i class="fa fa-pinterest fa-2x"></i></a>
-                    </div>
-                </div>
-                <div class="col-md-7">
-                    <h2>Lorem ipsum dolor sit amet</h2>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                         Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
-                           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                         Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
-                       
-                       
-                    </p>
-                        <div class="row">
-                            <div class="col-md-6 col-sm-6">
-                                <div class="form-group">
-                                    <input type="text" class="form-control" required="required" placeholder="Name">
-                                </div>
-                            </div>
-                            <div class="col-md-6 col-sm-6">
-                                <div class="form-group">
-                                    <input type="text" class="form-control" required="required" placeholder="Email address">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-12 col-sm-12">
-                                <div class="form-group">
-                                    <textarea name="message" id="message" required="required" class="form-control" rows="3" placeholder="Message"></textarea>
-                                </div>
-                                <div class="form-group">
-                                    <button type="submit" class="btn btn-default">Submit Request</button>
-                                </div>
-                            </div>
-                        </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-
-    <!--End Contact Section -->
     <!--footer Section -->
     <div class="for-full-back " id="footer">
         2014 www.yourdomain.com | All Right Reserved

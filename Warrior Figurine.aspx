@@ -65,14 +65,14 @@
     <section class="for-full-back color-white" id="about">
         <div class="container">
 
-                    <div class="row text-center">
-                        <div class="col-md-8 col-md-offset-2">
-                            <h1>Warrior Figurine</h1>
+            <div class="row text-center">
+                <div class="col-md-8 col-md-offset-2">
+                    <h1>Warrior Figurine</h1>
 
-                            <img src="assets/img/ChinaImages/08.jpg" style="width:inherit;height:inherit />
-                        </div>
+                    <img src="assets/img/ChinaImages/08.jpg" style="width:inherit;height:inherit" />
+                </div>
 
-                    </div>
+            </div>
 
            
             <div class="row text-center">
@@ -95,7 +95,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <h1></h1>
 
-                    <img src="assets/img/ChinaImages/Warrior00.png" style="width:inherit;height:inherit />
+                    <img src="assets/img/ChinaImages/Warrior00.png" style="width:inherit;height:inherit" />
                 </div>
 
             </div>
@@ -121,7 +121,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <h1></h1>
 
-                    <img src="assets/img/ChinaImages/Warrior01.png" style="width:inherit;height:inherit />
+                    <img src="assets/img/ChinaImages/Warrior01.png" style="width:inherit;height:inherit" />
                 </div>
 
             </div>
@@ -147,7 +147,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <h1></h1>
 
-                    <img src="assets/img/ChinaImages/Warrior02.png" style="width:inherit;height:inherit />
+                    <img src="assets/img/ChinaImages/Warrior02.png" style="width:inherit;height:inherit" />
                 </div>
 
             </div>
@@ -173,7 +173,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <h1></h1>
 
-                    <img src="assets/img/ChinaImages/Warrior03.png" style="width:inherit;height:inherit />
+                    <img src="assets/img/ChinaImages/Warrior03.png" style="width:inherit;height:inherit" />
                 </div>
 
             </div>
@@ -199,7 +199,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <h1></h1>
 
-                    <img src="assets/img/ChinaImages/Warrior04.png" style="width:inherit;height:inherit />
+                    <img src="assets/img/ChinaImages/Warrior04.png" style="width:inherit;height:inherit" />
                 </div>
 
             </div>
@@ -225,7 +225,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <h1></h1>
 
-                    <img src="assets/img/ChinaImages/Warrior05.png" style="width:inherit;height:inherit />
+                    <img src="assets/img/ChinaImages/Warrior05.png" style="width:inherit;height:inherit" />
                 </div>
 
             </div>
@@ -240,16 +240,15 @@
                 </div>
 
             </div>
-        </div>
 
+        </div>
+        <div class="row text-center">
+                    <img src="assets/img/china-institute-of-orientalism-logo-version4.png"  style ="max-height:200px; width:auto;"  />
+                </div>
 
     </section>
 
-    <!--./parallax one-->
-    <!--End words Section-->
 
-
-    <!--End Contact Section -->
     <!--footer Section -->
     <div class="for-full-back " id="footer">
         2014 www.yourdomain.com | All Right Reserved
