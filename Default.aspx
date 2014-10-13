@@ -7,7 +7,6 @@
 
     <!--Browser Tab Icon  (Favicon)-->
     <link rel="shortcut icon" href="assets/img/china-institute-of-orientalism-logo-version4.png" >
-    <!-- comment -->
 
      <video  autoplay="autoplay" loop poster="/assets/Video/index.files/html5video/pitted_buddhaBEST.jpg" id="bgvid">
         <source src="assets/Video/index.files/html5video/pitted_buddhaBEST.webm" type="video/webm" />
@@ -232,6 +231,7 @@
                         <a href="Contact.aspx">Contact</a>
                     </div>
             </div>
+                <!-- Same sized logo for all pages -->
                 <div class="row text-center">
                     <img src="assets/img/china-institute-of-orientalism-logo-version4.png"  style ="max-height:25em; width:auto;"  />
                 </div>

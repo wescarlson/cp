@@ -4,6 +4,10 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
+
+    <!--Browser Tab Icon  (Favicon)-->
+    <link rel="shortcut icon" href="assets/img/china-institute-of-orientalism-logo-version4.png" >
+
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="" />
@@ -409,8 +413,9 @@
                     </div>
 
                 </div>
-     <div>
-            <img src="assets/img/china-institute-of-orientalism-logo-version4.png" style="margin-left:44%; max-height:200px; padding-top:20px; width:auto;" />
+        <!-- Same sized logo for all pages -->
+        <div class="row text-center">
+            <img src="assets/img/china-institute-of-orientalism-logo-version4.png"  style ="max-height:25em; width:auto;"  />
         </div>
                 </section>
     <div class="for-full-back " id="footer"style="width:120%;">
