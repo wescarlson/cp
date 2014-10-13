@@ -121,7 +121,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <h1></h1>
 
-                    <img src="assets/img/ChinaImages/pittedBuddha02.png" style="width:inherit;height:inherit />
+                    <img src="assets/img/ChinaImages/pittedBuddha02.png" style="width:inherit;height:inherit" />
                 </div>
 
             </div>
@@ -147,7 +147,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <h1></h1>
 
-                    <img src="assets/img/ChinaImages/pittedBuddha03.png" style="width:inherit;height:inherit />
+                    <img src="assets/img/ChinaImages/pittedBuddha03.png" style="width:inherit;height:inherit" />
                 </div>
 
             </div>
@@ -173,7 +173,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <h1></h1>
 
-                    <img src="assets/img/ChinaImages/pittedBuddha04.png" style="width:inherit;height:inherit />
+                    <img src="assets/img/ChinaImages/pittedBuddha04.png" style="width:inherit;height:inherit" />
                 </div>
 
             </div>
@@ -199,7 +199,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <h1></h1>
 
-                    <img src="assets/img/ChinaImages/pittedBuddha05.png" style="width:inherit;height:inherit />
+                    <img src="assets/img/ChinaImages/pittedBuddha05.png" style="width:inherit;height:inherit" />
                 </div>
 
             </div>
@@ -225,7 +225,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <h1></h1>
 
-                    <img src="assets/img/ChinaImages/pittedBuddha06.png" style="width:inherit;height:inherit />
+                    <img src="assets/img/ChinaImages/pittedBuddha06.png" style="width:inherit;height:inherit" />
                 </div>
 
             </div>
@@ -241,7 +241,9 @@
 
             </div>
         </div>
-
+        <div class="row text-center">
+                    <img src="assets/img/china-institute-of-orientalism-logo-version4.png"  style ="max-height:200px; width:auto;"  />
+                </div>
 
     </section>
 

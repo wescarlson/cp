@@ -90,6 +90,7 @@
     <!-- CUSTOM SCRIPTS -->
     <script src="assets/js/custom.js"></script>
 
+    </form>
 
     <!-- it works the same with all jquery version from 1.x to 2.x -->
     <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
@@ -388,7 +389,7 @@
 
                     <div class="about-div">
                         <h3>Artifacts Throughout China</h3>
-                        <div id="map" style="width:750px;height:500px;">
+                        <div id="map" style="width:100%;height:650px;">
                     </div>
 
 
@@ -413,29 +414,26 @@
                     </div>
 
                 </div>
+<<<<<<< HEAD
         <!-- Same sized logo for all pages -->
         <div class="row text-center">
             <img src="assets/img/china-institute-of-orientalism-logo-version4.png"  style ="max-height:25em; width:auto;"  />
         </div>
+=======
+                <div class="row text-center">
+                    <img src="assets/img/china-institute-of-orientalism-logo-version4.png"  style ="max-height:200px; width:auto;"  />
+                </div>
+>>>>>>> origin/master
                 </section>
-    <div class="for-full-back " id="footer"style="width:120%;">
+    <!--footer Section -->
+    <div class="for-full-back " id="footer">
         2014 www.yourdomain.com | All Right Reserved
          
     </div>
-    <!--End footer Section -->
-    <!-- JAVASCRIPT FILES PLACED AT THE BOTTOM TO REDUCE THE LOADING TIME  -->
-    <!-- CORE JQUERY  -->
-    <script src="assets/plugins/jquery-1.10.2.js"></script>
-    <!-- BOOTSTRAP CORE SCRIPT   -->
-    <script src="assets/plugins/bootstrap.js"></script>
-    <!-- VEGAS SLIDESHOW SCRIPTS -->
-    <script src="assets/plugins/vegas/jquery.vegas.min.js"></script>
-    <script src="assets/plugins/jquery.parallax-1.1.3.js"></script>
-    <!-- CUSTOM SCRIPTS -->
-    <script src="assets/js/custom.js"></script>
 
-    </form>
+    <!--End footer Section -->
+
 </body>
 </html>
-
+<style type="text/css" ></style>
 

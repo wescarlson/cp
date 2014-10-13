@@ -33,7 +33,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="Default.aspx">WeNeedALogo</a>
+                <a class="navbar-brand" href="Default.aspx">China Institute of Orientalism</a>
             </div>
             <!-- Collect the nav links for toggling -->
             <div class="collapse navbar-collapse navbar-ex1-collapse">
@@ -60,7 +60,7 @@
     <!--End Navigation -->
 
 
-
+   
     <!--words Section-->
     <section class="for-full-back color-white" id="about">
         <div class="container">
@@ -74,11 +74,14 @@
                 </div>
 
             </div>
-
+            <div class="row text-center">
+                <img src="assets/img/china-institute-of-orientalism-logo-version4.png"  style ="max-height:200px; width:auto;"  />
+            </div>
             
     </section>
-
-
+     <section></section>
+      <section></section>
+     
     <!--End Contact Section -->
     <!--footer Section -->
     <div class="for-full-back " id="footer">

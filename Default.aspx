@@ -4,10 +4,13 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
+<<<<<<< HEAD
 
     <!--Browser Tab Icon  (Favicon)-->
     <link rel="shortcut icon" href="assets/img/china-institute-of-orientalism-logo-version4.png" >
 
+=======
+>>>>>>> origin/master
      <video  autoplay="autoplay" loop poster="/assets/Video/index.files/html5video/pitted_buddhaBEST.jpg" id="bgvid">
         <source src="assets/Video/index.files/html5video/pitted_buddhaBEST.webm" type="video/webm" />
         <source src="assets/Video/index.files/html5video/pitted_buddhaBEST.m4v" type="video/mp4" />

@@ -33,7 +33,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="Default.aspx">WeNeedALogo</a>
+                <a class="navbar-brand" href="Default.aspx">China Institute of Orientalism</a>
             </div>
             <!-- Collect the nav links for toggling -->
             <div class="collapse navbar-collapse navbar-ex1-collapse">
@@ -82,32 +82,23 @@
     <!--./parallax one-->
     <!--End words Section-->
 
-
-
-
-    <!-- Pricing Section -->
+    <section></section>
 
     <section class="for-full-back color-white " id="price-sec">
         <div class="container">
             <div class="row text-center">
                 <div class="col-md-8 col-md-offset-2">
                     
-                    </h4>
+                    
                 </div>
 
             </div>
-           
+        </div>
+           <div class="row text-center">
+                    <img src="assets/img/china-institute-of-orientalism-logo-version4.png"  style ="max-height:200px; width:auto;"  />
+                </div>
     </section>
-    <!--./parallax two-->
-    <!--End Pricing Section -->
 
-    <!-- Contact Section -->
-    <section class="for-full-back color-white " id="contact-sec">
-        <div class="container">
-
-
-           
-    </section>
 
     <!--End Contact Section -->
     <!--footer Section -->

@@ -121,11 +121,17 @@
 
             </div>
         </div>
+<<<<<<< HEAD
 
         <!-- Same sized logo for all pages -->
         <div class="row text-center">
             <img src="assets/img/china-institute-of-orientalism-logo-version4.png"  style ="max-height:25em; width:auto;"  />
         </div>
+=======
+                <div class="row text-center">
+                    <img src="assets/img/china-institute-of-orientalism-logo-version4.png"  style ="max-height:200px; width:auto;"  />
+                </div>
+>>>>>>> origin/master
 
 
     </section>
